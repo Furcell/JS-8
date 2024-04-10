@@ -1,0 +1,11 @@
+button{
+    cursor: pointer;
+    border: 2px solid black;
+}
+button:hover{
+    background-color: rgb(219, 243, 6);
+}
+img{
+    width: 100px;
+    height: 80px;
+}
